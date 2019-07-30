@@ -15,4 +15,4 @@ The GreyAtom Data Science Masters Program takes you through the complete process
 3.Advanced Machine Learning
 
 
-Play Hard Go Pro!!
+
