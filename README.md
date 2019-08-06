@@ -1,5 +1,7 @@
 # Data-Science-Notebooks
 
+This repository contains the jupyter notebooks that are part of the curriculum at GreyAtom's Data Science Masters Program.
+
 
 **GreayAtom DSMP overview**
 
