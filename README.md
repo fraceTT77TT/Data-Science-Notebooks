@@ -14,6 +14,8 @@ The GreyAtom Data Science Masters Program takes you through the complete process
 1. Python Data Science Toolki
 2. Foundations of Machine Learning
 3. Advanced Machine Learning
+4. Hackathons & Projects
+
 
 
 
