@@ -3,7 +3,7 @@
 This repository contains the jupyter notebooks that are part of the curriculum at GreyAtom's Data Science Masters Program.
 
 
-**GreayAtom DSMP overview**
+## GreayAtom DSMP overview**
 
 <p align="center"> 
 <img src="https://greyatom.com/static/assets/images/temp/site-images/logo/greyatom-logo.d65fc29b718b.svg" width="500">
