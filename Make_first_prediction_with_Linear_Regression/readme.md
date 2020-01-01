@@ -1,1 +1,1 @@
-# inear Regression
+# Linear Regression
